@@ -10,7 +10,6 @@
 <img height= "180cm" src=https://github-readme-stats.vercel.app/api/top-langs/?username=jaom-dev&layout=compact&theme=dark>
 
 ### O que estou praticando...
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="55" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="55" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="55" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="55" />         
